@@ -1,0 +1,15 @@
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\bin\Debug\net6.0\AutomationStudy.deps.json
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\bin\Debug\net6.0\AutomationStudy.dll
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\bin\Debug\net6.0\AutomationStudy.pdb
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\AutomationStudy.csproj.AssemblyReference.cache
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\AutomationStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\AutomationStudy.AssemblyInfoInputs.cache
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\AutomationStudy.AssemblyInfo.cs
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\AutomationStudy.csproj.CoreCompileInputs.cache
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\AutomationStudy.dll
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\refint\AutomationStudy.dll
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\AutomationStudy.pdb
+C:\Users\kanna\source\repos\AutomationStudy\AutomationStudy\obj\Debug\net6.0\ref\AutomationStudy.dll
